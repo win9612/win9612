@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white" />
 
+[![win9612's github stats](https://github-readme-stats.vercel.app/api?username=win9612&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 * 아이콘 가져오는 곳 : https://simpleicons.org/
