@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<img src="https://simpleicons.org/icons/java.svg" />
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white" />
+
+
+<!--
+* 아이콘 가져오는 곳 : https://simpleicons.org/
+  => 요기서 아이콘 이름 및 컬러코드를 여기서 쓰면 된다.
+  => 작성예시 : <img src="https://img.shields.io/badge/[안에넣을내용]-[컬러코드 #빼고]?style=flat-square&logo=[아이콘 이름]&logoColor=white" />
+-->
 
 <!--
 **win9612/win9612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
