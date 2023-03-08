@@ -6,12 +6,13 @@
 ### <div align="center">Hello, I am Cho Mingyu(조민규) 👨‍💻</div>  
   
 
-- 🌱 I’m a Frontend Developer.  
+- 🌱 I’m a Frontend Developer.   
   
-
-- ⚡These days, I am interested in coffee and interior design.  
-  
-
+## History
+|기간|내용|
+|------|---|
+|2016.03 ~ 2022.02|동국대학교 멀티미디어공학과 졸업|
+|2022.01 ~ 2022.12|삼성청년SW아카데미 7기 수료|
 <br/>  
 
 
