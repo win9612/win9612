@@ -1,12 +1,15 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/64128134/212544954-d6729d71-21da-4d20-9277-f281643cf4bc.png" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm mingyu</h1>  
   
 
-### <div align="center">Hello, I am Cho Mingyu(조민규) 👨‍💻</div>  
-  
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif?cid=ecf05e47brbo0oka9d7c2mhl3lnj38ut3747qeto2inudnj9&rid=giphy.gif&ct=s" alt="developer img" width="100" />  
+</div>
+<h3 align="center">🌱A Frontend Developer</h3>
 
-- 🌱 I’m a Frontend Developer.   
+- ⚛️ My main tech stack is **React**.
+- 📄 I'm currently learning **NextJs, Typescript, React Query**
+- 👨‍💻 All of my projects are available at [https://github.com/win9612](https://github.com/win9612)
+- 📫 How to reach me **mingyu1218@naver.com**
   
 ## History
 |기간|내용|
