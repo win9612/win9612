@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/win9612](https://github.com/win9612)
 - 📫 How to reach me **mingyu1218@naver.com**
   
-## History
+## 📖History
 |기간|내용|
 |:------:|:---:|
 | 2016.03 ~ 2022.02 | 동국대학교 멀티미디어공학과 |
@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 🧰Skill Set  
 ### Languages
 <div style="display: flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -52,7 +52,7 @@
 <br/>  
 
 
-## Github Stats  
+## 😊Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=win9612&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -60,9 +60,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=win9612&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
