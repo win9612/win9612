@@ -52,8 +52,12 @@
 <br/>  
 
 
-## 😊Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=win9612&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 😊Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=win9612&show_icons=true&count_private=true&hide_border=true" align="center" /> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win9612&layout=compact&theme=tokyonight)
+
 
 <br/>  
 
