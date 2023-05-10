@@ -14,8 +14,8 @@
 ## 📖History
 |기간|내용|
 |:------:|:---:|
-| 2016.03 ~ 2022.02 | 동국대학교 멀티미디어공학과 |
 | 2022.01 ~ 2022.12 | 삼성청년SW아카데미 7기 |
+| 2016.03 ~ 2022.02 | 동국대학교 멀티미디어공학과 |
 <br/>  
 
 
@@ -52,13 +52,19 @@
 
 <br/>  
 
+## Projects
+- 바나나 보트 (2023.03 ~ )
+  - 자유롭게 투표를 올리고 참여할 수 있는 온라인 커뮤니티
+- 닿다(DA-TA) (2022.10 ~ 2022.11)
+- 짜조(ZZAZO) (2022.08 ~ 2022.10)
+- DrinkUs (2022.07 ~ 2022.08)
+- 얼굴인식을 활용한 자동 출석체크 시스템 (2021.03 ~ 2021.06)
+- 동국밥 (2021.05 ~ 2021.05)
 
 ## 😊Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=win9612&show_icons=true&count_private=true&hide_border=true" align="center" /> 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win9612&layout=compact&theme=tokyonight)
-
+![win9612's GitHub stats](https://github-readme-stats.vercel.app/api?username=win9612&show_icons=true&theme=dracula)
 
 <br/>  
 
