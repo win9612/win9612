@@ -8,8 +8,12 @@
 
 - ⚛️ My main tech stack is **React**.
 - 📄 I'm currently learning **NextJs, Typescript, React Query**
-- 👨‍💻 All of my projects are available at [https://github.com/win9612](https://github.com/win9612)
-- 📫 How to reach me **mingyu1218@naver.com**
+
+## 📞Contacts
+- 📧 Email : mingyu1218@naver.com
+- 💣 Github : [https://github.com/win9612](https://github.com/win9612)
+- 📝 Blog (Tistory) : https://gochibul.tistory.com/
+- 📝 Blog (Velog) : https://velog.io/@win9612
   
 ## 📖History
 |기간|내용|
