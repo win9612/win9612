@@ -6,8 +6,8 @@
 </div>
 <h3 align="center">🌱A Frontend Developer</h3>
 
-- ⚛️ My main tech stack is **React**.
-- 📄 I'm currently learning **NextJs, Typescript, React Query**
+- ⚛️ `React`와 `Typescript`를 중심으로 개발하고 있습니다.
+- 📄 최근  `Next.js`에 관심을 가지고 공부하고 있습니다.
 
 ## 📞Contacts
 - 📧 Email : mingyu1218@naver.com
@@ -15,7 +15,7 @@
 - 📝 Blog (Tistory) : https://gochibul.tistory.com/
 - 📝 Blog (Velog) : https://velog.io/@win9612
   
-## 📖History
+## 📖Education
 |기간|내용|
 |:------:|:---:|
 | 2022.01 ~ 2022.12 | 삼성청년SW아카데미 7기 |
