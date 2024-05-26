@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif?cid=ecf05e47brbo0oka9d7c2mhl3lnj38ut3747qeto2inudnj9&rid=giphy.gif&ct=s" alt="developer img" width="100" />  
 </div>
-<h3 align="center">🌱A Frontend Developer</h3>
+<h3 align="center">🌱 Junior Frontend Developer (2023~)</h3>
 
 - ⚛️ `React`와 `Typescript`를 중심으로 개발하고 있습니다.
 - 📄 최근  `Next.js`에 관심을 가지고 공부하고 있습니다.
