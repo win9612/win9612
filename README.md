@@ -11,6 +11,11 @@
 - 💣 Github : [https://github.com/win9612](https://github.com/win9612)
 - 📝 Blog (Tistory) : https://gochibul.tistory.com/
 - 📝 Blog (Velog) : https://velog.io/@win9612
+
+## 💼 Working
+### 한화비전 (Hanwha Vision)
+- 모플 Frontend 개발 (2023.07 ~ 2024.06)
+- <a href="https://keeper.ceo">키퍼</a> Frontend 개발 (2024.07 ~ )
   
 ## 📖Education
 |기간|내용|
